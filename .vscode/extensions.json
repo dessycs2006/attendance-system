@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "formulahendry.auto-rename-tag",
+        "formulahendry.auto-close-tag",
+        "bierner.emmet",
+        "ecmel.vscode-html-css",
+        "esbenp.prettier-vscode",
+        "ms-vscode.live-server",
+        "rangav.vscode-thunder-client",
+        "alexcvzz.vscode-sqlite"
+    ]
+}
